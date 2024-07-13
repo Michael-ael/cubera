@@ -1,0 +1,4 @@
+User-Agent: *
+
+Host: https://www.heronfinance.com
+Sitemap: https://www.heronfinance.com/sitemap.xml
